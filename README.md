@@ -25,19 +25,25 @@ Use a new output directory. Downloads are verified against the executable's
 SHA-256 in the registry. Local files can be extracted offline and need no
 registry entry.
 
-## Verified releases
+## Refreshing the registry
 
-| Device | Updater release | Payloads |
-| --- | --- | ---: |
-| [BlackWidow V4 75%](https://mysupport.razer.com/app/answers/detail/a_id/20595/) | 1.02.01_r1 | 1 |
-| [BlackWidow V3 Pro](https://mysupport.razer.com/app/answers/detail/a_id/4728/) | 3.03.00_r1 | 2 |
-| [DeathStalker V2](https://mysupport.razer.com/app/answers/detail/a_id/6119/) | 1.01.00_r1 | 1 |
-| [Cobra Pro](https://mysupport.razer.com/app/answers/detail/a_id/13282/) | 3.00.02_r1 | 2 |
-| [DeathAdder V2 Pro](https://mysupport.razer.com/app/answers/detail/a_id/4557/) | 2.05.01_r1 | 2 |
+From the source tree, run:
 
-The bundled [JSON registry](razer_updater_extract/registry.json) records each
-model, release, official support page, download link and executable hash. Add
-other releases after verifying their official source and testing extraction.
+```sh
+python scripts/update_registry.py
+python scripts/update_registry.py --write
+```
+
+The script follows support article links from Razer’s firmware index, or from
+a results page supplied with `--index URL`. If Razer presents a browser check,
+open the page in a browser and save its HTML. Pass the saved index with
+`--html PATH` and any saved detail pages with `--articles DIRECTORY`. For
+articles discovered separately, `--candidates PATH` accepts a JSON array
+with `name`, `model`, `version`, `url`, and `source` for each release.
+
+The script downloads candidates, tests extraction, and records SHA-256 hashes.
+By default it prints the proposed registry to stdout. Pass `--write` to
+update the bundled [JSON registry](razer_updater_extract/registry.json).
 
 ## Output and compatibility
 
