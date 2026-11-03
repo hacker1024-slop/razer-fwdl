@@ -41,7 +41,11 @@ open the page in a browser and save its HTML. Pass the saved index with
 articles discovered separately, `--candidates PATH` accepts a JSON array
 with `name`, `model`, `version`, `url`, and `source` for each release.
 
-The script downloads candidates, tests extraction, and records SHA-256 hashes.
+The script downloads candidates, tests extraction, and records the resolved
+download URL and SHA-256 alongside the original link and support article.
+The CLI uses the resolved URL when available. To resolve existing entries
+against their pinned hashes, run
+`python scripts/update_registry.py --resolve-existing --write`.
 By default it prints the proposed registry to stdout. Pass `--write` to
 update the bundled [JSON registry](razer_updater_extract/registry.json).
 

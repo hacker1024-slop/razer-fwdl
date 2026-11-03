@@ -54,7 +54,7 @@ def is_download(url):
     parts = urlsplit(url)
     host = parts.hostname or ""
     return parts.scheme == "https" and (host == "rzr.to" or (
-        host.endswith(".razer.com") and parts.path.lower().endswith(".exe")
+        host.endswith((".razer.com", ".razerzone.com")) and parts.path.lower().endswith(".exe")
     ))
 
 
@@ -119,7 +119,8 @@ def verify(candidate):
         with TemporaryDirectory() as directory:
             path = Path(directory) / "updater.exe"
             with urlopen(candidate["url"], timeout=45) as response, path.open("wb") as output:
-                if urlsplit(response.geturl()).scheme != "https":
+                resolved_url = response.geturl()
+                if urlsplit(resolved_url).scheme != "https":
                     raise ValueError("Updater download redirected away from HTTPS")
                 remaining = MAX_UPDATER
                 while chunk := response.read(1024 * 1024):
@@ -128,7 +129,10 @@ def verify(candidate):
                         raise ValueError("Download exceeds the supported size limit")
                     output.write(chunk)
             manifest = extract(path, Path(directory) / "output")
-            return candidate | {"sha256": manifest["updater_sha256"]}
+            digest = manifest["updater_sha256"]
+            if "sha256" in candidate and digest != candidate["sha256"]:
+                raise ValueError("Download changed since registry verification")
+            return candidate | {"download_url": resolved_url, "sha256": digest}
     except (OSError, HTTPException, ValueError, RuntimeError, zipfile.BadZipFile) as error:
         print(f'{candidate["model"]} {candidate["version"]}: {error}', file=sys.stderr)
         return None
@@ -142,17 +146,35 @@ def main():
     parser.add_argument("--candidates", type=Path, help="JSON array of known release candidates")
     parser.add_argument("--registry", type=Path, default=Path(__file__).resolve().parents[1] /
                         "razer_updater_extract/registry.json")
+    parser.add_argument("--resolve-existing", action="store_true",
+                        help="Verify and resolve existing links without scanning support pages")
     parser.add_argument("--write", action="store_true", help="Write verified additions to the registry")
     args = parser.parse_args()
     try:
-        candidates = (json.loads(args.candidates.read_text()) if args.candidates
-                      else list(scan(args.index, args.html, args.articles)))
+        if args.resolve_existing:
+            candidates = []
+        elif args.candidates:
+            candidates = json.loads(args.candidates.read_text())
+        else:
+            candidates = list(scan(args.index, args.html, args.articles))
     except (OSError, HTTPException, ValueError) as error:
         parser.exit(1, f"{error}\n")
     registry = json.loads(args.registry.read_text())
     devices = {device["model"].casefold(): device for device in registry["devices"]}
-    known = {(device["model"].casefold(), release["url"]) for device in devices.values()
-             for release in device["releases"]}
+    if args.resolve_existing:
+        releases = [(device, release) for device in devices.values()
+                    for release in device["releases"] if "download_url" not in release]
+        with ThreadPoolExecutor(max_workers=8) as executor:
+            results = executor.map(verify, (release | {"model": device["model"]}
+                                            for device, release in releases))
+            for (_, release), result in zip(releases, results):
+                if result is not None:
+                    release["download_url"] = result["download_url"]
+        print(f"Resolved {sum('download_url' in release for _, release in releases)} "
+              f"of {len(releases)} existing links", file=sys.stderr)
+    known = {(device["model"].casefold(), url) for device in devices.values()
+             for release in device["releases"]
+             for url in (release["url"], release.get("download_url"))}
     pending = {(item["model"].casefold(), item["url"]): item for item in candidates
                if (item["model"].casefold(), item["url"]) not in known}
     print(f"Checking {len(pending)} new candidates", file=sys.stderr)

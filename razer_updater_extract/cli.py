@@ -43,7 +43,8 @@ def release_label(release):
 def download(release, target):
     digest = hashlib.sha256()
     size = 0
-    with urllib.request.urlopen(release["url"], timeout=30) as response, target.open("xb") as out:
+    url = release.get("download_url", release["url"])
+    with urllib.request.urlopen(url, timeout=30) as response, target.open("xb") as out:
         if not response.geturl().startswith("https://"):
             raise ValueError("Updater download redirected away from HTTPS")
         while chunk := response.read(1024 * 1024):

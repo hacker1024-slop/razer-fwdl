@@ -10,7 +10,8 @@
           "version": "3.02.03_r1",
           "url": "https://rzr.to/ejzzwe",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/14006/",
-          "sha256": "b190d1cba655c540dd9b0236b8e7ed6723ca680cbf5042b985c1de900fa63f97"
+          "sha256": "b190d1cba655c540dd9b0236b8e7ed6723ca680cbf5042b985c1de900fa63f97",
+          "download_url": "https://dl.razerzone.com/drivers/Kitsune/win/47E193F18AC1AF6D141F72BF070B78AA/Kitsune_1013_FirmwareUpdater_v3.02.03_r1.exe"
         }
       ]
     },
@@ -23,7 +24,8 @@
           "version": "1.06.00_r1",
           "url": "https://rzr.to/hHxq6j",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1660/",
-          "sha256": "5fabde1504c09f8efdda2e2a20ed3ed86ab817ca65ac4b4ffdc21fc5b550158f"
+          "sha256": "5fabde1504c09f8efdda2e2a20ed3ed86ab817ca65ac4b4ffdc21fc5b550158f",
+          "download_url": "https://dl.razerzone.com/drivers/RaijuTE/win/RaijuTE_FirmwareUpdater_v1.06.00%20r1.exe"
         }
       ]
     },
@@ -36,7 +38,8 @@
           "version": "1.06.00_r1",
           "url": "https://rzr.to/mm4caw",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1525/",
-          "sha256": "952e4a1c38b2e4647927acc4ad4bf1684a8ca09bccd016b2d9d423c4758c722a"
+          "sha256": "952e4a1c38b2e4647927acc4ad4bf1684a8ca09bccd016b2d9d423c4758c722a",
+          "download_url": "https://dl.razerzone.com/drivers/Raiju%20Ultimate/win/RaijuUltimate_FirmwareUpdater_v1.06.00%20r1.exe"
         }
       ]
     },
@@ -49,7 +52,8 @@
           "version": "1.06.01_r1",
           "url": "https://rzr.to/f22hvi",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20581/",
-          "sha256": "af41e765a763b783341627de2bfcc3ba9e5eb1ca202240cffb75d2583c41ade8"
+          "sha256": "af41e765a763b783341627de2bfcc3ba9e5eb1ca202240cffb75d2583c41ade8",
+          "download_url": "https://dl.razerzone.com/drivers/RaijuV3Pro/win/95B4517C161C4F362D66916E2CEDF233/RaijuV3Pro_10271025_FirmwareUpdater_v1.06.01_r1.exe"
         }
       ]
     },
@@ -62,7 +66,8 @@
           "version": "1.04.01_r1",
           "url": "https://rzr.to/Qy8n9I",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/6426/",
-          "sha256": "57206e21c96ab7b051a5fd6a044a22883603a5e10ae271acf1dcec43dda82b0e"
+          "sha256": "57206e21c96ab7b051a5fd6a044a22883603a5e10ae271acf1dcec43dda82b0e",
+          "download_url": "https://dl.razerzone.com/drivers/WolverineV2Pro/win/WolverineV2Pro_100C100B_FirmwareUpdater_v1.04.01_r1.exe"
         }
       ]
     },
@@ -75,7 +80,8 @@
           "version": "2.04.00_r1",
           "url": "https://rzr.to/b556gr",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/14630/",
-          "sha256": "fae16e98d9a15c3db5378808802a2b7c36d08372d64c0e16cfefbc96a0c2889b"
+          "sha256": "fae16e98d9a15c3db5378808802a2b7c36d08372d64c0e16cfefbc96a0c2889b",
+          "download_url": "https://dl.razerzone.com/drivers/WolverineV3Pro/win/C883CEA1200064BDC0285A18CA39CDED/WolverineV3Pro_0A3F_FirmwareUpdater_v2.04.00_r1.exe"
         }
       ]
     },
@@ -88,7 +94,8 @@
           "version": "1.04.00_r1",
           "url": "https://rzr.to/bq92sf",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20398/",
-          "sha256": "6e4f3f2dfe9e5c0aede96c088008090c6a5f95263502f44b94786d1c96cd7aed"
+          "sha256": "6e4f3f2dfe9e5c0aede96c088008090c6a5f95263502f44b94786d1c96cd7aed",
+          "download_url": "https://dl.razerzone.com/drivers/WolverineV3Pro8KPC/win/FB016C408E9F1161DBEEF644BD271061/WolverineV3Pro8KPC_0A590A57_FirmwareUpdater_v1.04.00_r1.exe"
         }
       ]
     },
@@ -101,7 +108,8 @@
           "version": "1.02.02_r1",
           "url": "https://rzr.to/hs6uk8",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20401/",
-          "sha256": "28f310966bf4fea774e689e34c979d02134c3f1a277ac8193f2324fb0d866306"
+          "sha256": "28f310966bf4fea774e689e34c979d02134c3f1a277ac8193f2324fb0d866306",
+          "download_url": "https://dl.razerzone.com/drivers/WolverineV3TournamentEdition8KPC/win/CC1B792B67EE394C0F5C634F09FE463C/WolverineV3TournamentEdition8KPC_0A5A_FirmwareUpdater_v1.02.02_r1.exe"
         }
       ]
     },
@@ -114,7 +122,8 @@
           "version": "1.00.14_r1",
           "url": "https://rzr.to/KairaFW",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4731/",
-          "sha256": "c194206c1dcf5e40694b026af8f51b4dbf738ef0ebd0f95e23b8894b5b98cae7"
+          "sha256": "c194206c1dcf5e40694b026af8f51b4dbf738ef0ebd0f95e23b8894b5b98cae7",
+          "download_url": "https://dl.razerzone.com/drivers/KairaforXbox/win/KairaforXbox_Headset_FirmwareUpdater_v1.00.14_r1.exe"
         }
       ]
     },
@@ -127,7 +136,8 @@
           "version": "1.00.12_r1",
           "url": "https://rzr.to/KairaProFW",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4733/",
-          "sha256": "bbecb20608dc702f26d5322a7bc05f8675ff2ddb22e9ed76029137926688f744"
+          "sha256": "bbecb20608dc702f26d5322a7bc05f8675ff2ddb22e9ed76029137926688f744",
+          "download_url": "https://dl.razerzone.com/drivers/KairaProforXbox/win/KairaProforXbox_Headset_FirmwareUpdater_v1.00.12_r1.exe"
         }
       ]
     },
@@ -140,7 +150,8 @@
           "version": "1.01",
           "url": "https://rzr.to/oyVPZ",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1650/",
-          "sha256": "03f9f6e857ce5444acf461654d6d05b6727a7895e5744494506f8808b479ea69"
+          "sha256": "03f9f6e857ce5444acf461654d6d05b6727a7895e5744494506f8808b479ea69",
+          "download_url": "https://dl.razerzone.com/drivers/RazerBlackWidow/win/RazerBlackWidow_FirmwareUpdater_v1.01.00.exe"
         }
       ]
     },
@@ -153,7 +164,8 @@
           "version": "1.01",
           "url": "https://rzr.to/oyVPZ",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1650/",
-          "sha256": "03f9f6e857ce5444acf461654d6d05b6727a7895e5744494506f8808b479ea69"
+          "sha256": "03f9f6e857ce5444acf461654d6d05b6727a7895e5744494506f8808b479ea69",
+          "download_url": "https://dl.razerzone.com/drivers/RazerBlackWidow/win/RazerBlackWidow_FirmwareUpdater_v1.01.00.exe"
         }
       ]
     },
@@ -166,7 +178,8 @@
           "version": "1.05.01_r1",
           "url": "https://rzr.to/JEbx9L",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13022/",
-          "sha256": "b834373199d8c09c8f2e9aa5ba1f7966e9f4ebca610c57cefc4ab8b0d0465f85"
+          "sha256": "b834373199d8c09c8f2e9aa5ba1f7966e9f4ebca610c57cefc4ab8b0d0465f85",
+          "download_url": "https://dl.razerzone.com/drivers/BlackWidowV3/win/BlackWidowV3_024E_FirmwareUpdater_v1.05.01_r1.exe"
         }
       ]
     },
@@ -179,7 +192,8 @@
           "version": "3.03.00_r1",
           "url": "https://rzr.to/f5dhjy",
           "sha256": "984f509d41246949a7a8051d99cbd6b70ba256e5dcccb1645c5bfdf33d12590b",
-          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4728/"
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4728/",
+          "download_url": "https://dl.razerzone.com/drivers/BlackWidow%20V3%20Pro/win/BlackWidowV3Pro_025C025A_FirmwareUpdater_v3.03.00_r1.exe"
         }
       ]
     },
@@ -192,7 +206,8 @@
           "version": "1.03.00_r1",
           "url": "https://rzr.to/p1MPT4",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/3518/",
-          "sha256": "b223a029f43070190f5ae84d00c728c43c72df2d35446e4e16e0e82a57872c23"
+          "sha256": "b223a029f43070190f5ae84d00c728c43c72df2d35446e4e16e0e82a57872c23",
+          "download_url": "https://dl.razerzone.com/drivers/BlackWidow%20V3%20Tenkeyless/win/1DEBAC18EAE79A9653BB79BD22FB3EA1/BlackWidowV3Tenkeyless_0A24_FirmwareUpdater_v1.03.00_r1.exe"
         }
       ]
     },
@@ -205,7 +220,8 @@
           "version": "1.5.0_r1",
           "url": "https://rzr.to/s70dys",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13901/",
-          "sha256": "318239441e90720f031bc0e77c71f8aa86083c671b98fe190ff96add429b662e"
+          "sha256": "318239441e90720f031bc0e77c71f8aa86083c671b98fe190ff96add429b662e",
+          "download_url": "https://dl.razerzone.com/drivers/RazerBlackWidowV4/win/BF63DB11A28DD43D8FE12AEEDAAC0086/BlackWidowV4_0287_FirmwareUpdater_v1.05.00_r1.exe"
         }
       ]
     },
@@ -221,7 +237,8 @@
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20595/",
           "aliases": [
             "1.2.1_r1"
-          ]
+          ],
+          "download_url": "https://dl.razerzone.com/drivers/RazerBlackWidowV475%25/win/BDC628FA54457C87373521D6F7F8F1E3/BlackWidowV475%25_02A5_FirmwareUpdater_v1.02.01_r1.exe"
         }
       ]
     },
@@ -234,7 +251,8 @@
           "version": "1.4.1_r2",
           "url": "https://rzr.to/6hxvwu",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20292/",
-          "sha256": "4b2a4812c7414043700fbcd92fa7c3c0fa67e7e6f0451f04784bd167a58c8ba7"
+          "sha256": "4b2a4812c7414043700fbcd92fa7c3c0fa67e7e6f0451f04784bd167a58c8ba7",
+          "download_url": "https://dl.razerzone.com/drivers/RazerBlackWidowV4Low-profileHyperSpeed/win/C6B122EBEA970F6B1B430A93A53AD82E/BlackWidowV4Low-profileHyperSpeed_02C902CC_FirmwareUpdater_v1.04.01_r2.exe"
         }
       ]
     },
@@ -247,7 +265,8 @@
           "version": "1.4.1_r2",
           "url": "https://rzr.to/a7zbst",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20293/",
-          "sha256": "43c6225893803ce4062e8008336f524f896c5c6be8171118f59ec770d0022447"
+          "sha256": "43c6225893803ce4062e8008336f524f896c5c6be8171118f59ec770d0022447",
+          "download_url": "https://dl.razerzone.com/drivers/RazerBlackWidowV4Low-profileTenkeylessHyperSpeed/win/8056E26FA3FBF6D38E796B0B85524EB5/BlackWidowV4Low-profileTenkeylessHyperSpeed_02D202D4_FirmwareUpdater_v1.04.01_r2.exe"
         }
       ]
     },
@@ -260,7 +279,8 @@
           "version": "1.03.00_r1",
           "url": "https://rzr.to/vmnbaG",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/14183/",
-          "sha256": "29782ae46cd18a0e17a371f9faac75bdbe3eafe66a0dbb0c4d5fd2dcb6f001c4"
+          "sha256": "29782ae46cd18a0e17a371f9faac75bdbe3eafe66a0dbb0c4d5fd2dcb6f001c4",
+          "download_url": "https://dl.razerzone.com/drivers/BlackWidowV4X/win/59277C3FD89BECA13B391F9AB578151C/BlackWidowV4X_0293_FirmwareUpdater_v1.03.00_r1.exe"
         }
       ]
     },
@@ -273,7 +293,8 @@
           "version": "2.1.0_r2",
           "url": "https://rzr.to/68az2z",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20305/",
-          "sha256": "c38503d5a803d42d6244e19eb4cbe1a1f6739e096cb6b806882dd871162d1e79"
+          "sha256": "c38503d5a803d42d6244e19eb4cbe1a1f6739e096cb6b806882dd871162d1e79",
+          "download_url": "https://dl.razerzone.com/drivers/RazerCynosaLite/win/F33C53CA0534CEF843C07D2F95428F56/RazerCynosaLite_023F_FirmwareUpdater_v2.01.00_r2.exe"
         }
       ]
     },
@@ -286,7 +307,8 @@
           "version": "1.01.00_r1",
           "url": "https://rzr.to/nt22xu",
           "sha256": "817d9f4ce2b2e7d8df7db891fd8f0dd103ef15b6edb04f849cc75a52d86711c4",
-          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6119/"
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6119/",
+          "download_url": "https://dl.razerzone.com/drivers/DeathstalkerV2/win/DeathstalkerV2_0295_FirmwareUpdater_v1.01.00_r1.exe"
         }
       ]
     },
@@ -299,7 +321,8 @@
           "version": "1.05.00_r2",
           "url": "https://rzr.to/3goh14",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/6249/",
-          "sha256": "9b67675561e2bfc837068674bda85a14eeab83187db5fa3f9ea1d0aee55df7d7"
+          "sha256": "9b67675561e2bfc837068674bda85a14eeab83187db5fa3f9ea1d0aee55df7d7",
+          "download_url": "https://dl.razerzone.com/drivers/DeathStalkerV2Pro/win/11FE2ACA3C6B188E4ACB55BC74D20B61/DeathStalkerV2Pro_02900292_FirmwareUpdater_v1.05.00_r2.exe"
         }
       ]
     },
@@ -312,7 +335,8 @@
           "version": "1.07.00_r1",
           "url": "https://rzr.to/b4ms54",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/6305/",
-          "sha256": "f69d15cb390370f6500cbab0a548003dcebc1e32e741dcb0b29fe2328f0d228c"
+          "sha256": "f69d15cb390370f6500cbab0a548003dcebc1e32e741dcb0b29fe2328f0d228c",
+          "download_url": "https://dl.razerzone.com/drivers/DeathStalkerV2ProTenkeyless/win/0F38DE510E70F3204C363E1E37A398FA/DeathStalkerV2ProTenkeyless_02960298_FirmwareUpdater_v1.07.00_r1.exe"
         }
       ]
     },
@@ -325,7 +349,8 @@
           "version": "1.02.00_r1",
           "url": "https://rzr.to/oejPc",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1662/",
-          "sha256": "a6481c7c0286f36ed7f18ada14a1ad56e48c4529823e2ae22121860a57faa4c6"
+          "sha256": "a6481c7c0286f36ed7f18ada14a1ad56e48c4529823e2ae22121860a57faa4c6",
+          "download_url": "https://dl.razerzone.com/drivers/Huntsman/win/Huntsman_FirmwareUpdater_v1.02.00_r1.exe"
         }
       ]
     },
@@ -338,7 +363,8 @@
           "version": "1.23.00_r1",
           "url": "https://rzr.to/jajh0s",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1736/",
-          "sha256": "16865a59b1e5175b037298891eb7ad2e815ccbf9719c39f4a60c5542f032e8d0"
+          "sha256": "16865a59b1e5175b037298891eb7ad2e815ccbf9719c39f4a60c5542f032e8d0",
+          "download_url": "https://dl.razerzone.com/drivers/Huntsman%20Elite/win/924130B1F3E775021BE1E0EBEB58AE65/HuntsmanElite_0226_FirmwareUpdater_v1.23.00_r1.exe"
         }
       ]
     },
@@ -352,7 +378,8 @@
           "url": "https://rzr.to/lpc06k",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4298/",
           "sha256": "36336a5ae1d3db36be9aa4c1067ca475d04603dfa514158aa4ecb57cdf398c5a",
-          "variant": "English layout"
+          "variant": "English layout",
+          "download_url": "https://dl.razerzone.com/drivers/HuntsmanMini/win/Huntsman%20Mini_KB_FirmwareUpdater_v1.12.00.exe"
         }
       ]
     },
@@ -365,7 +392,8 @@
           "version": "1.03.00_r2",
           "url": "https://rzr.to/ybaZeX",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/9772/",
-          "sha256": "8c439c473e27e5a3d3f49f9ac9e93ae1c0c36df5f35168640596f58b1cfaea34"
+          "sha256": "8c439c473e27e5a3d3f49f9ac9e93ae1c0c36df5f35168640596f58b1cfaea34",
+          "download_url": "https://dl.razerzone.com/drivers/HuntsmanMiniAnalog/win/HuntsmanMiniAnalog_0282_FirmwareUpdater_v1.03.00_r2.exe"
         }
       ]
     },
@@ -378,7 +406,8 @@
           "version": "1.2.0_r2",
           "url": "https://rzr.to/1sboiz",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20505/",
-          "sha256": "3d3ca8a91db84cdc86c1f0153c2e6b1407ed4a99abdf5557ad66c1e6f725cc51"
+          "sha256": "3d3ca8a91db84cdc86c1f0153c2e6b1407ed4a99abdf5557ad66c1e6f725cc51",
+          "download_url": "https://dl.razerzone.com/drivers/HuntsmanSignatureEdition/win/AE7EBAD719CC0D5005627ADA5D8FA6FA/HuntsmanSignatureEdition_02D8_FirmwareUpdater_v1.02.00_r2.exe"
         }
       ]
     },
@@ -391,7 +420,8 @@
           "version": "1.06.00_r2",
           "url": "https://rzr.to/cVsDGL",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/6366/",
-          "sha256": "b8029000d1df089550d5db720cf732afdcd4f93d5081be8c015fbfac99b3b63a"
+          "sha256": "b8029000d1df089550d5db720cf732afdcd4f93d5081be8c015fbfac99b3b63a",
+          "download_url": "https://dl.razerzone.com/drivers/HuntsmanV2Analog/win/HuntsmanV2Analog_0266_FirmwareUpdater_v1.06.00_r2.exe"
         }
       ]
     },
@@ -404,7 +434,8 @@
           "version": "1.03.00_r1",
           "url": "https://rzr.to/jqf5hh",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13705/",
-          "sha256": "8fa3d649881f9fcf929b44f4a07379f56c23965a5e354aafb0808408fd2cccd9"
+          "sha256": "8fa3d649881f9fcf929b44f4a07379f56c23965a5e354aafb0808408fd2cccd9",
+          "download_url": "https://dl.razerzone.com/drivers/HuntsmanV3Pro/win/8D10A6DA64CD834BCA9B7CA9BE3930F4/HuntsmanV3Pro_02A6_FirmwareUpdater_v1.03.00_r1.exe"
         }
       ]
     },
@@ -417,7 +448,8 @@
           "version": "1.3.0_r2",
           "url": "https://rzr.to/g02bar",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20396/",
-          "sha256": "03be2522f9e5ef71e03add9d3df986937d40d53718af8d9a5fdc00c54e0ce6b0"
+          "sha256": "03be2522f9e5ef71e03add9d3df986937d40d53718af8d9a5fdc00c54e0ce6b0",
+          "download_url": "https://dl.razerzone.com/drivers/HuntsmanV3Pro8KHz/win/C2BBC5F16B56D0A989EA68782CF660DC/HuntsmanV3Pro8KHz_02CF_FirmwareUpdater_v1.03.00_r2.exe"
         }
       ]
     },
@@ -430,7 +462,8 @@
           "version": "1.1.1_r2",
           "url": "https://rzr.to/ztofmc",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/21346/",
-          "sha256": "d3337024faac9bbbd0b6983e8bdfb84a33f6195d6eba535d05b306d233a2fe4e"
+          "sha256": "d3337024faac9bbbd0b6983e8bdfb84a33f6195d6eba535d05b306d233a2fe4e",
+          "download_url": "https://dl.razerzone.com/drivers/RazerHuntsmanV3ProLow-profileTenkeyless8KHz/win/97A81D652D187D4387AE32122F4CCB0D/HuntsmanV3ProLow-profileTenkeyless8KHz_02E6_FirmwareUpdater_v1.01.01_r2.exe"
         }
       ]
     },
@@ -443,7 +476,8 @@
           "version": "2.01.00_r1",
           "url": "https://rzr.to/9ecz87",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13707/",
-          "sha256": "f652c001b92cc39433c15631af233fce36e50da93f0ad89b2efab52bcb4b7fd9"
+          "sha256": "f652c001b92cc39433c15631af233fce36e50da93f0ad89b2efab52bcb4b7fd9",
+          "download_url": "https://dl.razerzone.com/drivers/HuntsmanV3ProMini/win/98E5E3D1FC64BAB249D7482F666B3C9F/HuntsmanV3ProMini_02B0_FirmwareUpdater_v2.01.00_r1.exe"
         }
       ]
     },
@@ -456,7 +490,8 @@
           "version": "1.04.00_r1",
           "url": "https://rzr.to/5ma4pc",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13706/",
-          "sha256": "4ef89ef20de5d8fea8293c7f04be73d7c953b2548e9d1d69c76c51134a9e0ff7"
+          "sha256": "4ef89ef20de5d8fea8293c7f04be73d7c953b2548e9d1d69c76c51134a9e0ff7",
+          "download_url": "https://dl.razerzone.com/drivers/HuntsmanV3ProTenkeyless/win/3E3B3B22812F62F5C3A65C88E7FADE38/HuntsmanV3ProTenkeyless_02A7_FirmwareUpdater_v1.04.00_r1.exe"
         }
       ]
     },
@@ -469,13 +504,15 @@
           "version": "1.4.0_r2",
           "url": "https://rzr.to/9o7tcv",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20383/",
-          "sha256": "b4bd9c5bb6f53635e337c814f7cb448ad302f122e66ba59d8b13d3e85e474159"
+          "sha256": "b4bd9c5bb6f53635e337c814f7cb448ad302f122e66ba59d8b13d3e85e474159",
+          "download_url": "https://dl.razerzone.com/drivers/HuntsmanV3ProTenkeyless8KHz/win/AA995514E7115571BCBDAA05BEFC3F11/HuntsmanV3ProTenkeyless8KHz_02D0_FirmwareUpdater_v1.04.00_r2.exe"
         },
         {
           "version": "1.03.00_r1",
           "url": "https://rzr.to/r70r7j",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20383/",
-          "sha256": "2d23e304efa07345ea178ef5ba5e95e7eef3492f98684b1afc291c70e0235a48"
+          "sha256": "2d23e304efa07345ea178ef5ba5e95e7eef3492f98684b1afc291c70e0235a48",
+          "download_url": "https://dl.razerzone.com/drivers/HuntsmanV3ProTenkeyless8KHz/win/873C3F50BD82F2BE186BC531D82C1B36/HuntsmanV3ProTenkeyless8KHz_02D0_FirmwareUpdater_v1.03.00_r1.exe"
         }
       ]
     },
@@ -488,7 +525,8 @@
           "version": "1.02.0_r1",
           "url": "https://rzr.to/zyp0pu",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20538/",
-          "sha256": "c74983c8d1778c7b839bb7fb227c0c068e5475f109c52656a12f953ce24c3295"
+          "sha256": "c74983c8d1778c7b839bb7fb227c0c068e5475f109c52656a12f953ce24c3295",
+          "download_url": "https://dl.razerzone.com/drivers/RazerHuntsmanV3Tenkeyless8KHz/win/0D60C0A86C6D15534FC583D1D43239E0/HuntsmanV3Tenkeyless8KHz_02E5_FirmwareUpdater_v1.02.00_r1.exe"
         }
       ]
     },
@@ -501,7 +539,8 @@
           "version": "1.01.00_r3",
           "url": "https://rzr.to/v1gueh",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/21028/",
-          "sha256": "09b13f3faf44c87a22e059953921df8a228478971e15501c9f701508ed30032f"
+          "sha256": "09b13f3faf44c87a22e059953921df8a228478971e15501c9f701508ed30032f",
+          "download_url": "https://dl.razerzone.com/drivers/HuntsmanV3XTenkeyless/win/HuntsmanV3XTenkeyless_02B1_FirmwareUpdater_v1.01.00_r3.exe"
         }
       ]
     },
@@ -514,7 +553,8 @@
           "version": "1.03.00_r1",
           "url": "https://rzr.to/1zim4t",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/19909/",
-          "sha256": "ce3a1cb75d2961110bb4e3ac18f2b93acd77a16b8093885f6bc349ded1f47072"
+          "sha256": "ce3a1cb75d2961110bb4e3ac18f2b93acd77a16b8093885f6bc349ded1f47072",
+          "download_url": "https://dl.razerzone.com/drivers/Joro/win/Joro_02CD_FirmwareUpdater_v1.03.00_r1.exe"
         }
       ]
     },
@@ -527,7 +567,8 @@
           "version": "2.02.00_r1",
           "url": "https://rzr.to/5E0w5A",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13275/",
-          "sha256": "b193aa39f21ed99522352acdb2985db9ec61d900df0d757d3b544862c8f14839"
+          "sha256": "b193aa39f21ed99522352acdb2985db9ec61d900df0d757d3b544862c8f14839",
+          "download_url": "https://dl.razerzone.com/drivers/Ornata%20V3/win/OrnataV3_028F02A1_FirmwareUpdater_v2.02.00_r1.exe"
         }
       ]
     },
@@ -540,7 +581,8 @@
           "version": "1.02.00_r1",
           "url": "https://rzr.to/hCjNDN",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13273/",
-          "sha256": "f42748ea83da245f3addad7471724a6bc3b1b970433bf755aa477482a7f67fe6"
+          "sha256": "f42748ea83da245f3addad7471724a6bc3b1b970433bf755aa477482a7f67fe6",
+          "download_url": "https://dl.razerzone.com/drivers/OrnataV3Tenkeyless/win/OrnataV3Tenkeyless_02A3_FirmwareUpdater_v1.02.00_r1.exe"
         }
       ]
     },
@@ -553,7 +595,8 @@
           "version": "2.1.0_r1",
           "url": "https://rzr.to/umiuti",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/21090/",
-          "sha256": "34e7da0570ab765194b04b913bbde43652bf92e59e35e4b184601d15ed270617"
+          "sha256": "34e7da0570ab765194b04b913bbde43652bf92e59e35e4b184601d15ed270617",
+          "download_url": "https://dl.razerzone.com/drivers/OrnataV3X/win/B9B632EB644177AA473FE43F59107BA6/OrnataV3X_029402A2_FirmwareUpdater_v2.01.00_r1.exe"
         }
       ]
     },
@@ -566,7 +609,8 @@
           "version": "1.13.00_r1",
           "url": "https://rzr.to/JaYwAA",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1651/",
-          "sha256": "952780316ede0961e20f9f051df2ee59498e2c3b59f9819916efab6273007ea1"
+          "sha256": "952780316ede0961e20f9f051df2ee59498e2c3b59f9819916efab6273007ea1",
+          "download_url": "https://dl.razerzone.com/drivers/Turret%20for%20Xbox%20One/TurretforXboxOne_09040075023E_FirmwareUpdater_v1.13.00_r1.exe"
         }
       ]
     },
@@ -579,7 +623,8 @@
           "version": "1.02.00",
           "url": "https://rzr.to/yoaUM",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1633/",
-          "sha256": "166e9f2eea59405024e0859b21ab76b3221a2f81288457ef36198f4abe711a44"
+          "sha256": "166e9f2eea59405024e0859b21ab76b3221a2f81288457ef36198f4abe711a44",
+          "download_url": "https://dl.razerzone.com/drivers/Basilisk%20Essential/win/BasiliskEssential_FirmwareUpdater_v1.02.00_r1.exe"
         }
       ]
     },
@@ -592,7 +637,8 @@
           "version": "1.08.00_r1",
           "url": "https://rzr.to/coZddp",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4552/",
-          "sha256": "1b5b29292609bfa2265fde49ed662b0bd6d210bcd820e17d481735b2434ca053"
+          "sha256": "1b5b29292609bfa2265fde49ed662b0bd6d210bcd820e17d481735b2434ca053",
+          "download_url": "https://dl.razerzone.com/drivers/BasiliskUltimate/win/BasiliskUltimate_00880086_FirmwareUpdater_v1.08.00_r1.exe"
         }
       ]
     },
@@ -605,7 +651,8 @@
           "version": "1.03.00_r1",
           "url": "https://rzr.to/8r187",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4554/",
-          "sha256": "12f6ce6bd924f416cba6725f3d6f0c0e26122bc053d28f48083289d6e6d51daa"
+          "sha256": "12f6ce6bd924f416cba6725f3d6f0c0e26122bc053d28f48083289d6e6d51daa",
+          "download_url": "https://dl.razerzone.com/drivers/Basilisk%20V2/win/BasiliskV2_Mouse_FirmwareUpdater_v1.03.00_r1.exe"
         }
       ]
     },
@@ -618,7 +665,8 @@
           "version": "2.01.01_r1",
           "url": "https://rzr.to/4zjozf",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/6405/",
-          "sha256": "7096b80761d1f6f8a220e70d582f8be39b9204539a8956c4f89584153ae52729"
+          "sha256": "7096b80761d1f6f8a220e70d582f8be39b9204539a8956c4f89584153ae52729",
+          "download_url": "https://dl.razerzone.com/drivers/BasiliskV3Pro/win/CAB368852A35F8B7A658EA22C603E298/BasiliskV3Pro_00AB00AA_FirmwareUpdater_v2.01.01_r1.exe"
         }
       ]
     },
@@ -631,14 +679,16 @@
           "version": "2.52.00_r1",
           "url": "https://rzr.to/8uia4k",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20610/",
-          "sha256": "1f053c0b8193ef7d0d7738aa7f1afab354ecefda1e252a4b3c4d1ee03c877c4f"
+          "sha256": "1f053c0b8193ef7d0d7738aa7f1afab354ecefda1e252a4b3c4d1ee03c877c4f",
+          "download_url": "https://dl.razerzone.com/drivers/BasiliskV3Pro35K/win/57E024A21980C30F7A10278EBEEE69C4/BasiliskV3Pro35K_00CD00CC_FirmwareUpdater_v2.52.00_r1.exe"
         },
         {
           "version": "2.53.00_r1",
           "url": "https://rzr.to/ef020m",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20511/",
           "sha256": "4c0f8ca719ef998b64b2a6c260eabef460011f4e3296819a5281ad65c5851c17",
-          "variant": "Phantom Edition"
+          "variant": "Phantom Edition",
+          "download_url": "https://dl.razerzone.com/drivers/BasiliskV3Pro35K/win/6D5E7F5E488727132F773CF4AA41AD7D/BasiliskV3Pro35K_00D700D6_FirmwareUpdater_v2.53.00_r1.exe"
         }
       ]
     },
@@ -651,7 +701,8 @@
           "version": "1.01.00_r1",
           "url": "https://rzr.to/4sv8by",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/20514/",
-          "sha256": "d96abf7a0b641b551cf43fbc17f002a922c06270ee4cf71db0bbdbea4cd55c93"
+          "sha256": "d96abf7a0b641b551cf43fbc17f002a922c06270ee4cf71db0bbdbea4cd55c93",
+          "download_url": "https://dl.razerzone.com/drivers/CobraHyperSpeed/win/CD9ECDE2CC9BB5CE12D4F4F6A27D5D0F/CobraHyperSpeed_00DB00DA_FirmwareUpdater_v1.01.00_r1.exe"
         }
       ]
     },
@@ -664,13 +715,15 @@
           "version": "3.00.02_r1",
           "url": "https://rzr.to/cq79xe",
           "sha256": "ebef26cb21be8f76f76dae7af87044a465c54e54831c440e571a63c9842cc424",
-          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13282/"
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13282/",
+          "download_url": "https://dl.razerzone.com/drivers/CobraPro/win/B76620724D96758736CAC67684095F43/CobraPro_00B000AF_FirmwareUpdater_v3.00.02_r1.exe"
         },
         {
           "version": "2.01.00_r1",
           "url": "https://rzr.to/ql0esf",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13282/",
-          "sha256": "b1a23141e5cdba6481ad4c2b03fb03a5edb361568668ac707e84588145799ef3"
+          "sha256": "b1a23141e5cdba6481ad4c2b03fb03a5edb361568668ac707e84588145799ef3",
+          "download_url": "https://dl.razerzone.com/drivers/CobraPro/win/CobraPro_00B000AF_FirmwareUpdater_v2.01.00_r1.exe"
         }
       ]
     },
@@ -683,7 +736,8 @@
           "version": "1.04.01_r1",
           "url": "https://rzr.to/XhZ6cS",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4555/",
-          "sha256": "75243987c6b31ebd9b97d24899271e4e1e2cfdc0730d3f2e176f978a2b9af595"
+          "sha256": "75243987c6b31ebd9b97d24899271e4e1e2cfdc0730d3f2e176f978a2b9af595",
+          "download_url": "https://dl.razerzone.com/drivers/DeathAdder%20V2/win/DeathAdder%20V2_FirmwareUpdater_v1.04.01_r1.exe"
         }
       ]
     },
@@ -696,7 +750,8 @@
           "version": "1.02.01_r3",
           "url": "https://rzr.to/fa7fr5",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4556/",
-          "sha256": "1d24bcebc11b3b4fbd43c57d901a7532f630849122aa42fd00a5ec9b8932d74e"
+          "sha256": "1d24bcebc11b3b4fbd43c57d901a7532f630849122aa42fd00a5ec9b8932d74e",
+          "download_url": "https://dl.razerzone.com/drivers/DeathAdder%20V2%20Mini/win/DeathAdder%20V2%20Mini_Mouse_FirmwareUpdater_v1.02.01_r3.exe"
         }
       ]
     },
@@ -709,7 +764,8 @@
           "version": "2.05.01_r1",
           "url": "https://rzr.to/Bt4tFd",
           "sha256": "945ea29e37e2b5a14550d12766b84dce73490427bb48800d1ba696d9d8182ab5",
-          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4557/"
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4557/",
+          "download_url": "https://dl.razerzone.com/drivers/DeathAdderV2Pro/win/DeathAdderV2Pro_007D007C_FirmwareUpdater_v2.05.01_r1.exe"
         }
       ]
     },
@@ -722,7 +778,8 @@
           "version": "1.02.00_r1",
           "url": "https://rzr.to/FMwIs7",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13817/",
-          "sha256": "d71637d12aa8b0d29ad6e4f359746823b6c8288b08df22865c69749a2d5a04de"
+          "sha256": "d71637d12aa8b0d29ad6e4f359746823b6c8288b08df22865c69749a2d5a04de",
+          "download_url": "https://dl.razerzone.com/drivers/DeathAdderV3/win/DeathAdderV3_00B2_FirmwareUpdater_v1.02.00_r1.exe"
         }
       ]
     },
@@ -735,7 +792,8 @@
           "version": "2.02.00_r2",
           "url": "https://rzr.to/5a8pja",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/6403/",
-          "sha256": "5ed5a01874006c814e74aa4713f3f4b7c71a60a31e0eb856eca89fbc51c0ea14"
+          "sha256": "5ed5a01874006c814e74aa4713f3f4b7c71a60a31e0eb856eca89fbc51c0ea14",
+          "download_url": "https://dl.razerzone.com/drivers/DeathAdderV3Pro/win/300B12B1418CB3E04202C2F8227AA71E/DeathAdderV3Pro_00B700B6_FirmwareUpdater_v2.02.00_r2.exe"
         }
       ]
     },
@@ -748,7 +806,8 @@
           "version": "1.02.00_r1",
           "url": "https://rzr.to/UgDbz",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1796/",
-          "sha256": "9d015a3b5da90372f26d7d9b0c1f9ef27c07f11e9d0305973f792fad406592f6"
+          "sha256": "9d015a3b5da90372f26d7d9b0c1f9ef27c07f11e9d0305973f792fad406592f6",
+          "download_url": "https://dl.razerzone.com/drivers/Lancehead%20Dock/win/Lancehead_Dock_FirmwareUpdater_v1.02.00.exe"
         }
       ]
     },
@@ -761,7 +820,8 @@
           "version": "1.02.01_r2",
           "url": "https://rzr.to/bdwXn",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1634/",
-          "sha256": "87e20b12ca07c699ba768330804a0129d92664d92fc097a6ea330ecf159fb10b"
+          "sha256": "87e20b12ca07c699ba768330804a0129d92664d92fc097a6ea330ecf159fb10b",
+          "download_url": "https://dl.razerzone.com/drivers/Lancehead%20Wireless/win/LanceheadWireless_FirmwareUpdater_v1.02.01_r2.exe"
         }
       ]
     },
@@ -774,7 +834,8 @@
           "version": "1.01.00_r1",
           "url": "https://rzr.to/LMUZl",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1757/",
-          "sha256": "84cfbbfa3b75a4ffe170b22f0ba17fc4458cf20b824aafe5d67ce8c23d849b1d"
+          "sha256": "84cfbbfa3b75a4ffe170b22f0ba17fc4458cf20b824aafe5d67ce8c23d849b1d",
+          "download_url": "https://dl.razerzone.com/drivers/Mamba%20Elite/win/MambaElite_Mouse_FirmwareUpdater_v1.01.00_r1.exe"
         }
       ]
     },
@@ -787,7 +848,8 @@
           "version": "1.12.00_r1",
           "url": "https://rzr.to/NwS3R",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1635/",
-          "sha256": "1db8d8a57176984c89dea5efcd18974a9976dbd64877a87ed51103a7c297e7e6"
+          "sha256": "1db8d8a57176984c89dea5efcd18974a9976dbd64877a87ed51103a7c297e7e6",
+          "download_url": "https://dl.razerzone.com/drivers/Mamba%20Wireless/win/MambaWireless_FirmwareUpdater_v1.12.00_r1.exe"
         }
       ]
     },
@@ -800,7 +862,8 @@
           "version": "2.03.02_r1",
           "url": "https://rzr.to/T2fhkf",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4549/",
-          "sha256": "6ce8d05cdfebe7eb203b548cb94b7c66be444097dae5cf8134c4624508863c23"
+          "sha256": "6ce8d05cdfebe7eb203b548cb94b7c66be444097dae5cf8134c4624508863c23",
+          "download_url": "https://dl.razerzone.com/drivers/NagaPro/win/NagaPro_0090008F_FirmwareUpdater_v2.03.02_r1.exe"
         }
       ]
     },
@@ -813,13 +876,15 @@
           "version": "2.61.01_r1",
           "url": "https://rzr.to/8xek3n",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/6394/",
-          "sha256": "77a17572b78ba0eac8dd742dc8655bbbe1308f69bbeac585f180aa3bfcda2183"
+          "sha256": "77a17572b78ba0eac8dd742dc8655bbbe1308f69bbeac585f180aa3bfcda2183",
+          "download_url": "https://dl.razerzone.com/drivers/NagaV2Pro/win/93A62DC40C26EF9439564A5456B42608/NagaV2Pro_00A800A7_FirmwareUpdater_v2.61.01_r1.exe"
         },
         {
           "version": "1.03.00_r1",
           "url": "https://rzr.to/aiq5k1",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/6394/",
-          "sha256": "12e911b6d9fbc55dd9aa8773c470ad1979df1184b8819a474c43143a01b6a162"
+          "sha256": "12e911b6d9fbc55dd9aa8773c470ad1979df1184b8819a474c43143a01b6a162",
+          "download_url": "https://dl.razerzone.com/drivers/NagaV2Pro/win/1CF9CB3437CDE7966FC5A5E5B83C2ADE/NagaV2Pro_00A800A7_FirmwareUpdater_v1.03.00_r1.exe"
         }
       ]
     },
@@ -832,7 +897,8 @@
           "version": "1.02.00_r1",
           "url": "https://rzr.to/4GkFt",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4580/",
-          "sha256": "97d9114f9f3b7148f5c4550e37ca8d3d93040ed62b95260be6bacf2445b33b97"
+          "sha256": "97d9114f9f3b7148f5c4550e37ca8d3d93040ed62b95260be6bacf2445b33b97",
+          "download_url": "https://dl.razerzone.com/drivers/ProClick/win/Pro%20Click%20_Mouse_FirmwareUpdater_v1.02.00_r1.exe"
         }
       ]
     },
@@ -845,7 +911,8 @@
           "version": "1.07.01_r1",
           "url": "https://rzr.to/PrIDN",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4581/",
-          "sha256": "6176814b9afdb66f1109aeec6d3c3bc2d1ffed949438558978e8356a14ce3195"
+          "sha256": "6176814b9afdb66f1109aeec6d3c3bc2d1ffed949438558978e8356a14ce3195",
+          "download_url": "https://dl.razerzone.com/drivers/Viper/win/Viper_Mouse_FirmwareUpdater_v1.07.01_r1.exe"
         }
       ]
     },
@@ -858,7 +925,8 @@
           "version": "1.03.01_r1",
           "url": "https://rzr.to/84LsT2",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4540/",
-          "sha256": "f06b7a9b8d8fbc51aae99ff8a2f3da95c1fd1669b2c4b5024dea96fb137aac42"
+          "sha256": "f06b7a9b8d8fbc51aae99ff8a2f3da95c1fd1669b2c4b5024dea96fb137aac42",
+          "download_url": "https://dl.razerzone.com/drivers/Viper%208KHz/win/Viper8K_0091_FirmwareUpdater_v1.03.01_r1.exe"
         }
       ]
     },
@@ -871,7 +939,8 @@
           "version": "1.03.02_r1",
           "url": "https://rzr.to/DjS6s",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4648/",
-          "sha256": "bcd2ba9c5114fbacc18235d9455df15631c6edd20632eb36c2482aff432fc1e7"
+          "sha256": "bcd2ba9c5114fbacc18235d9455df15631c6edd20632eb36c2482aff432fc1e7",
+          "download_url": "https://dl.razerzone.com/drivers/Viper%20Mini/win/Viper%20Mini_Mouse_FirmwareUpdater_v1.03.02_r1.exe"
         }
       ]
     },
@@ -884,7 +953,8 @@
           "version": "1.05.00_r1",
           "url": "https://rzr.to/j0zepz",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/9731/",
-          "sha256": "eeb7aa01cb2dbdd01f584ff487e246abf402588a009dc5c699b7d6bf788c60a0"
+          "sha256": "eeb7aa01cb2dbdd01f584ff487e246abf402588a009dc5c699b7d6bf788c60a0",
+          "download_url": "https://dl.razerzone.com/drivers/ViperMiniSignatureEdition/win/0B73D32726DC577D0F3BE1465829A9AD/ViperMiniSignatureEdition_009F009E_FirmwareUpdater_v1.05.00_r1.exe"
         }
       ]
     },
@@ -897,7 +967,8 @@
           "version": "2.01.00_r1",
           "url": "https://rzr.to/0n3dzq",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/6110/",
-          "sha256": "7960d9ea4ff60f59de92c632bd86a92aee5714c908bf75361323eb07f2467626"
+          "sha256": "7960d9ea4ff60f59de92c632bd86a92aee5714c908bf75361323eb07f2467626",
+          "download_url": "https://dl.razerzone.com/drivers/Viper%20V2%20Pro/win/ViperV2Pro_00A600A5_FirmwareUpdater_v2.01.01_r1.exe"
         }
       ]
     },
@@ -910,7 +981,8 @@
           "version": "2.00.02_r1",
           "url": "https://rzr.to/cexrmi",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13747/",
-          "sha256": "e28b62d53848add662cccf01d1bcb13815a06e93ba7f045af07d48d89e510956"
+          "sha256": "e28b62d53848add662cccf01d1bcb13815a06e93ba7f045af07d48d89e510956",
+          "download_url": "https://dl.razerzone.com/drivers/ViperV3HyperSpeed/win/A7F98A2F26F8A7DDCA0690BF2E5EDB2A/ViperV3HyperSpeed_00B8_FirmwareUpdater_v2.00.02_r1.exe"
         }
       ]
     },
@@ -923,7 +995,8 @@
           "version": "1.14.00_r2",
           "url": "https://rzr.to/zegglb",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/14169/",
-          "sha256": "80dc13b70ac93d96cbe3a9af240d211acd2e12d2f798615fe157060c4d59a332"
+          "sha256": "80dc13b70ac93d96cbe3a9af240d211acd2e12d2f798615fe157060c4d59a332",
+          "download_url": "https://dl.razerzone.com/drivers/ViperV3Pro/win/9259258537D621881122A934CC728055/ViperV3Pro_00C100C0_FirmwareUpdater_v1.14.00_r2.exe"
         }
       ]
     },
@@ -936,7 +1009,8 @@
           "version": "1.01.00_r1",
           "url": "https://rzr.to/9Smnw",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4559/",
-          "sha256": "a50987a09611f7d145ff08083940617aa7baaf4076474eb7abf74a72c4a397ed"
+          "sha256": "a50987a09611f7d145ff08083940617aa7baaf4076474eb7abf74a72c4a397ed",
+          "download_url": "https://dl.razerzone.com/drivers/Firefly/win/Firefly_MouseMat_FirmwareUpdater_v1.01.00_r1.exe"
         }
       ]
     },
@@ -949,7 +1023,8 @@
           "version": "1.01.01_r1",
           "url": "https://rzr.to/bRWMd",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1637/",
-          "sha256": "cd83ac452cbe0c84f35568ada33e72609c07333a1766f1c1442e7b0d29b92c9f"
+          "sha256": "cd83ac452cbe0c84f35568ada33e72609c07333a1766f1c1442e7b0d29b92c9f",
+          "download_url": "https://dl.razerzone.com/drivers/Goliathus%20Chroma/win/Goliathus%20Chroma_MouseMat_FirmwareUpdater_v1.01.00_r1.exe"
         }
       ]
     },
@@ -962,7 +1037,8 @@
           "version": "1.01.01",
           "url": "https://rzr.to/rGVcV",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/1644/",
-          "sha256": "ce00574c00fdeb4c72c52e963eb34af00f2486d0c07647476808f29eb0361e57"
+          "sha256": "ce00574c00fdeb4c72c52e963eb34af00f2486d0c07647476808f29eb0361e57",
+          "download_url": "https://dl.razerzone.com/drivers/Goliathus%20Extended%20Chroma/win/Goliathus%20Extended%20Chroma_MouseMat_FirmwareUpdater_v1.01.01_r1.exe"
         }
       ]
     },
@@ -975,7 +1051,8 @@
           "version": "1.02.00_r1",
           "url": "https://rzr.to/s8n6S",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/2271/",
-          "sha256": "416f47af0721fe26ccf7917471dc6c760eb9ee579f50126e5b4c71e12fea20e9"
+          "sha256": "416f47af0721fe26ccf7917471dc6c760eb9ee579f50126e5b4c71e12fea20e9",
+          "download_url": "https://dl.razerzone.com/drivers/Mamba%20Hyperflux/win/MambaHyperflux_Dock_FirmwareUpdater_v1.02.00_r1.exe"
         }
       ]
     },
@@ -988,7 +1065,8 @@
           "version": "1.01.01.32_r1",
           "url": "https://rzr.to/WrwDBy",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4753/",
-          "sha256": "0de2440477eeeadbc35f9212396502305496512e43bbd24ed5e909e66d87d027"
+          "sha256": "0de2440477eeeadbc35f9212396502305496512e43bbd24ed5e909e66d87d027",
+          "download_url": "https://dl.razerzone.com/drivers/ChargingPad/win/ChargingPadChroma_FirmwareUpdater_v1.01.01.32_r1.exe"
         }
       ]
     },
@@ -1001,7 +1079,8 @@
           "version": "2.01.00_r1",
           "url": "https://rzr.to/yrqb7x",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13746/",
-          "sha256": "9d0cd71c579bd6f43b5602bdbebd9e326f14715d29926f63c9c337cfd740a274"
+          "sha256": "9d0cd71c579bd6f43b5602bdbebd9e326f14715d29926f63c9c337cfd740a274",
+          "download_url": "https://dl.razerzone.com/drivers/HyperPollingWirelessDongle/win/8381E42B7EBCD426C11DA1E03E35A914/HyperPollingWirelessDongle_00B3_FirmwareUpdater_v2.01.00_r1.exe"
         }
       ]
     },
@@ -1014,7 +1093,8 @@
           "version": "2.01.00_r1",
           "url": "https://rzr.to/f811dk",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/6387/",
-          "sha256": "5a24a45995326934bdd86c3fb1875493812ac0a5198b166563784358384e0d93"
+          "sha256": "5a24a45995326934bdd86c3fb1875493812ac0a5198b166563784358384e0d93",
+          "download_url": "https://dl.razerzone.com/drivers/MouseDockPro/win/7EE131D34277F90A7A075E0B456712CE/MouseDockPro_00A4_FirmwareUpdater_v2.01.00_r1.exe"
         }
       ]
     },
@@ -1027,7 +1107,8 @@
           "version": "1.03.00_r4",
           "url": "https://rzr.to/uGhG1",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/2805/",
-          "sha256": "521932622c6c9573ef412a9728af94c062b0ab1f0c1d540b6b68b9d079baad51"
+          "sha256": "521932622c6c9573ef412a9728af94c062b0ab1f0c1d540b6b68b9d079baad51",
+          "download_url": "https://dl.razerzone.com/drivers/Nommo%20Chroma/win/Nommo_Chroma_FirmwareUpdater_v1.03.00_r4.exe"
         }
       ]
     },
@@ -1040,7 +1121,8 @@
           "version": "1.03.00.049_r1",
           "url": "https://rzr.to/nommoprofwu",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4652/",
-          "sha256": "a2e2b1008f308672a5c37891fcddbc42e76e1cdf17b1ec2e9d190e772591aeba"
+          "sha256": "a2e2b1008f308672a5c37891fcddbc42e76e1cdf17b1ec2e9d190e772591aeba",
+          "download_url": "https://dl.razerzone.com/drivers/Nommo%20Pro/win/NommoPro_FirmwareUpdater_v1.03.00.049_r1.exe"
         }
       ]
     }

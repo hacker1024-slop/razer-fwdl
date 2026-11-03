@@ -13,8 +13,7 @@ class DiscoveryTests(unittest.TestCase):
         <a href="https://example.com/updater.exe">External link</a>
         <a href="https://rzr.to/oyVPZ">Download</a>
         <h3>Firmware updater v1.00</h3>
-        <a href="https://dl.razerzone.com/updater.exe">Unrecognized host</a>
-        <a href="https://dl.razer.com/updater.exe">Download</a>
+        <a href="https://dl.razerzone.com/updater.exe">Download</a>
         """
         candidates = list(discover(source, html))
         self.assertEqual(
@@ -22,7 +21,7 @@ class DiscoveryTests(unittest.TestCase):
             [
                 ("RZ03-02860", "1.01_r2", "https://rzr.to/oyVPZ"),
                 ("RZ03-02861", "1.01_r2", "https://rzr.to/oyVPZ"),
-                ("RZ03-02860", "1.00", "https://dl.razer.com/updater.exe"),
-                ("RZ03-02861", "1.00", "https://dl.razer.com/updater.exe"),
+                ("RZ03-02860", "1.00", "https://dl.razerzone.com/updater.exe"),
+                ("RZ03-02861", "1.00", "https://dl.razerzone.com/updater.exe"),
             ],
         )
