@@ -64,6 +64,10 @@ class ExtractionTests(unittest.TestCase):
                 archive.writestr("DeviceUpdater.resources", resources(entries))
             manifest = extract(updater, output)
             self.assertEqual(len(manifest["payloads"]), 2)
+            self.assertEqual(
+                {path.name for path in output.iterdir()},
+                {"dev1fw.bin", "dev2fw.bin", "manifest.json"},
+            )
             self.assertEqual((output / "dev1fw.bin").read_bytes(), b"a")
             self.assertEqual((output / "dev2fw.bin").read_bytes(), b"b")
             self.assertEqual(

@@ -176,10 +176,8 @@ def extract(updater: Path, output: Path):
             "resource": stem,
             "firmware_version": resources.get("DevFWVer" + suffix),
             "entry_point": entry,
-            "hex": name + ".hex",
             "segments": [],
         }
-        files[payload["hex"]] = ("\n".join(lines) + "\n").encode("ascii")
         for address, data in segments:
             filename = f"{name}.bin" if len(segments) == 1 else f"{name}-{address:08x}.bin"
             files[filename] = data

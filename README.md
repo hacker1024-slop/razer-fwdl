@@ -41,7 +41,7 @@ other releases after verifying their official source and testing extraction.
 
 ## Output and compatibility
 
-Each firmware stream gets an Intel HEX file and one binary per contiguous
+Each firmware stream gets one binary per contiguous
 address range. `manifest.json` identifies the resource stream, firmware
 version, optional entry point, and each binary's load address, size and SHA-256.
 Addresses in the JSON are integers. A wireless updater can include multiple
