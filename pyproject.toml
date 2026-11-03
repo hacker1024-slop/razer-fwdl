@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "razer-updater-extract"
+version = "0.1.0"
+description = "Extract firmware payloads from Razer updater applications"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+dependencies = []
+
+[project.scripts]
+razer-updater-extract = "razer_updater_extract.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["razer_updater_extract*"]
+
+[tool.setuptools.package-data]
+razer_updater_extract = ["registry.json"]

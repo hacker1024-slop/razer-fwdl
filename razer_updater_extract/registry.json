@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "devices": [
+    {
+      "name": "BlackWidow V4 75%",
+      "model": "RZ03-0500",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.02.01_r1",
+          "url": "https://rzr.to/1xzgbo",
+          "sha256": "db23f4e6c8a5cf572ae1de5b0dafeac8d7a9e343d2b0d1f510a19921c80e77ec",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20595/",
+          "aliases": [
+            "1.2.1_r1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BlackWidow V3 Pro",
+      "model": "RZ03-03530",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "3.03.00_r1",
+          "url": "https://rzr.to/f5dhjy",
+          "sha256": "984f509d41246949a7a8051d99cbd6b70ba256e5dcccb1645c5bfdf33d12590b",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4728/"
+        }
+      ]
+    },
+    {
+      "name": "DeathStalker V2",
+      "model": "RZ03-0450",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.01.00_r1",
+          "url": "https://rzr.to/nt22xu",
+          "sha256": "817d9f4ce2b2e7d8df7db891fd8f0dd103ef15b6edb04f849cc75a52d86711c4",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6119/"
+        }
+      ]
+    },
+    {
+      "name": "Cobra Pro",
+      "model": "RZ01-0466",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "3.00.02_r1",
+          "url": "https://rzr.to/cq79xe",
+          "sha256": "ebef26cb21be8f76f76dae7af87044a465c54e54831c440e571a63c9842cc424",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13282/"
+        }
+      ]
+    },
+    {
+      "name": "DeathAdder V2 Pro",
+      "model": "RZ01-03350",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "2.05.01_r1",
+          "url": "https://rzr.to/Bt4tFd",
+          "sha256": "945ea29e37e2b5a14550d12766b84dce73490427bb48800d1ba696d9d8182ab5",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4557/"
+        }
+      ]
+    }
+  ]
+}
