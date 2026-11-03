@@ -2,18 +2,171 @@
   "schema_version": 1,
   "devices": [
     {
-      "name": "BlackWidow V4 75%",
-      "model": "RZ03-0500",
+      "name": "Kitsune",
+      "model": "RZ06-0502",
+      "category": "controller",
+      "releases": [
+        {
+          "version": "3.02.03_r1",
+          "url": "https://rzr.to/ejzzwe",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/14006/",
+          "sha256": "b190d1cba655c540dd9b0236b8e7ed6723ca680cbf5042b985c1de900fa63f97"
+        }
+      ]
+    },
+    {
+      "name": "Raiju Tournament Edition",
+      "model": "RZ06-02610",
+      "category": "controller",
+      "releases": [
+        {
+          "version": "1.06.00_r1",
+          "url": "https://rzr.to/hHxq6j",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1660/",
+          "sha256": "5fabde1504c09f8efdda2e2a20ed3ed86ab817ca65ac4b4ffdc21fc5b550158f"
+        }
+      ]
+    },
+    {
+      "name": "Raiju Ultimate",
+      "model": "RZ06-02600",
+      "category": "controller",
+      "releases": [
+        {
+          "version": "1.06.00_r1",
+          "url": "https://rzr.to/mm4caw",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1525/",
+          "sha256": "952e4a1c38b2e4647927acc4ad4bf1684a8ca09bccd016b2d9d423c4758c722a"
+        }
+      ]
+    },
+    {
+      "name": "Raiju V3 Pro",
+      "model": "RZ06-0558",
+      "category": "controller",
+      "releases": [
+        {
+          "version": "1.06.01_r1",
+          "url": "https://rzr.to/f22hvi",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20581/",
+          "sha256": "af41e765a763b783341627de2bfcc3ba9e5eb1ca202240cffb75d2583c41ade8"
+        }
+      ]
+    },
+    {
+      "name": "Wolverine V2 Pro",
+      "model": "RZ06-04710",
+      "category": "controller",
+      "releases": [
+        {
+          "version": "1.04.01_r1",
+          "url": "https://rzr.to/Qy8n9I",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6426/",
+          "sha256": "57206e21c96ab7b051a5fd6a044a22883603a5e10ae271acf1dcec43dda82b0e"
+        }
+      ]
+    },
+    {
+      "name": "Wolverine V3 Pro",
+      "model": "RZ06-0520",
+      "category": "controller",
+      "releases": [
+        {
+          "version": "2.04.00_r1",
+          "url": "https://rzr.to/b556gr",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/14630/",
+          "sha256": "fae16e98d9a15c3db5378808802a2b7c36d08372d64c0e16cfefbc96a0c2889b"
+        }
+      ]
+    },
+    {
+      "name": "Wolverine V3 Pro 8K PC",
+      "model": "RZ06-05540",
+      "category": "controller",
+      "releases": [
+        {
+          "version": "1.04.00_r1",
+          "url": "https://rzr.to/bq92sf",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20398/",
+          "sha256": "6e4f3f2dfe9e5c0aede96c088008090c6a5f95263502f44b94786d1c96cd7aed"
+        }
+      ]
+    },
+    {
+      "name": "Wolverine V3 Tournament Edition 8K PC",
+      "model": "RZ06-05550",
+      "category": "controller",
+      "releases": [
+        {
+          "version": "1.02.02_r1",
+          "url": "https://rzr.to/hs6uk8",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20401/",
+          "sha256": "28f310966bf4fea774e689e34c979d02134c3f1a277ac8193f2324fb0d866306"
+        }
+      ]
+    },
+    {
+      "name": "Kaira",
+      "model": "RZ04-03480",
+      "category": "headset",
+      "releases": [
+        {
+          "version": "1.00.14_r1",
+          "url": "https://rzr.to/KairaFW",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4731/",
+          "sha256": "c194206c1dcf5e40694b026af8f51b4dbf738ef0ebd0f95e23b8894b5b98cae7"
+        }
+      ]
+    },
+    {
+      "name": "Kaira Pro",
+      "model": "RZ04-03470",
+      "category": "headset",
+      "releases": [
+        {
+          "version": "1.00.12_r1",
+          "url": "https://rzr.to/KairaProFW",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4733/",
+          "sha256": "bbecb20608dc702f26d5322a7bc05f8675ff2ddb22e9ed76029137926688f744"
+        }
+      ]
+    },
+    {
+      "name": "BlackWidow 2019",
+      "model": "RZ03-02860",
       "category": "keyboard",
       "releases": [
         {
-          "version": "1.02.01_r1",
-          "url": "https://rzr.to/1xzgbo",
-          "sha256": "db23f4e6c8a5cf572ae1de5b0dafeac8d7a9e343d2b0d1f510a19921c80e77ec",
-          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20595/",
-          "aliases": [
-            "1.2.1_r1"
-          ]
+          "version": "1.01",
+          "url": "https://rzr.to/oyVPZ",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1650/",
+          "sha256": "03f9f6e857ce5444acf461654d6d05b6727a7895e5744494506f8808b479ea69"
+        }
+      ]
+    },
+    {
+      "name": "BlackWidow 2019",
+      "model": "RZ03-02861",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.01",
+          "url": "https://rzr.to/oyVPZ",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1650/",
+          "sha256": "03f9f6e857ce5444acf461654d6d05b6727a7895e5744494506f8808b479ea69"
+        }
+      ]
+    },
+    {
+      "name": "BlackWidow V3",
+      "model": "RZ03-0354",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.05.01_r1",
+          "url": "https://rzr.to/JEbx9L",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13022/",
+          "sha256": "b834373199d8c09c8f2e9aa5ba1f7966e9f4ebca610c57cefc4ab8b0d0465f85"
         }
       ]
     },
@@ -31,6 +184,100 @@
       ]
     },
     {
+      "name": "BlackWidow V3 Tenkeyless",
+      "model": "RZ03-03490",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.03.00_r1",
+          "url": "https://rzr.to/p1MPT4",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/3518/",
+          "sha256": "b223a029f43070190f5ae84d00c728c43c72df2d35446e4e16e0e82a57872c23"
+        }
+      ]
+    },
+    {
+      "name": "BlackWidow V4",
+      "model": "RZ03-0469",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.5.0_r1",
+          "url": "https://rzr.to/s70dys",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13901/",
+          "sha256": "318239441e90720f031bc0e77c71f8aa86083c671b98fe190ff96add429b662e"
+        }
+      ]
+    },
+    {
+      "name": "BlackWidow V4 75%",
+      "model": "RZ03-0500",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.02.01_r1",
+          "url": "https://rzr.to/1xzgbo",
+          "sha256": "db23f4e6c8a5cf572ae1de5b0dafeac8d7a9e343d2b0d1f510a19921c80e77ec",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20595/",
+          "aliases": [
+            "1.2.1_r1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BlackWidow V4 Low-profile HyperSpeed",
+      "model": "RZ03-0527",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.4.1_r2",
+          "url": "https://rzr.to/6hxvwu",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20292/",
+          "sha256": "4b2a4812c7414043700fbcd92fa7c3c0fa67e7e6f0451f04784bd167a58c8ba7"
+        }
+      ]
+    },
+    {
+      "name": "BlackWidow V4 Low-profile Tenkeyless HyperSpeed",
+      "model": "RZ03-0545",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.4.1_r2",
+          "url": "https://rzr.to/a7zbst",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20293/",
+          "sha256": "43c6225893803ce4062e8008336f524f896c5c6be8171118f59ec770d0022447"
+        }
+      ]
+    },
+    {
+      "name": "BlackWidow V4 X",
+      "model": "RZ03-0470",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.03.00_r1",
+          "url": "https://rzr.to/vmnbaG",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/14183/",
+          "sha256": "29782ae46cd18a0e17a371f9faac75bdbe3eafe66a0dbb0c4d5fd2dcb6f001c4"
+        }
+      ]
+    },
+    {
+      "name": "Cynosa Lite",
+      "model": "RZ03-0274",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "2.1.0_r2",
+          "url": "https://rzr.to/68az2z",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20305/",
+          "sha256": "c38503d5a803d42d6244e19eb4cbe1a1f6739e096cb6b806882dd871162d1e79"
+        }
+      ]
+    },
+    {
       "name": "DeathStalker V2",
       "model": "RZ03-0450",
       "category": "keyboard",
@@ -44,6 +291,371 @@
       ]
     },
     {
+      "name": "DeathStalker V2 Pro",
+      "model": "RZ03-0436",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.05.00_r2",
+          "url": "https://rzr.to/3goh14",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6249/",
+          "sha256": "9b67675561e2bfc837068674bda85a14eeab83187db5fa3f9ea1d0aee55df7d7"
+        }
+      ]
+    },
+    {
+      "name": "DeathStalker V2 Pro Tenkeyless",
+      "model": "RZ03-0437x",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.07.00_r1",
+          "url": "https://rzr.to/b4ms54",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6305/",
+          "sha256": "f69d15cb390370f6500cbab0a548003dcebc1e32e741dcb0b29fe2328f0d228c"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman",
+      "model": "RZ03-02520",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.02.00_r1",
+          "url": "https://rzr.to/oejPc",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1662/",
+          "sha256": "a6481c7c0286f36ed7f18ada14a1ad56e48c4529823e2ae22121860a57faa4c6"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman Elite",
+      "model": "RZ03-01870",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.23.00_r1",
+          "url": "https://rzr.to/jajh0s",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1736/",
+          "sha256": "16865a59b1e5175b037298891eb7ad2e815ccbf9719c39f4a60c5542f032e8d0"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman Mini",
+      "model": "RZ03-03390",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.12.00",
+          "url": "https://rzr.to/lpc06k",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4298/",
+          "sha256": "36336a5ae1d3db36be9aa4c1067ca475d04603dfa514158aa4ecb57cdf398c5a",
+          "variant": "English layout"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman Mini Analog",
+      "model": "RZ03-0434",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.03.00_r2",
+          "url": "https://rzr.to/ybaZeX",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/9772/",
+          "sha256": "8c439c473e27e5a3d3f49f9ac9e93ae1c0c36df5f35168640596f58b1cfaea34"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman Signature Edition",
+      "model": "RZ03-0551",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.2.0_r2",
+          "url": "https://rzr.to/1sboiz",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20505/",
+          "sha256": "3d3ca8a91db84cdc86c1f0153c2e6b1407ed4a99abdf5557ad66c1e6f725cc51"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman V2 Analog",
+      "model": "RZ03-03610",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.06.00_r2",
+          "url": "https://rzr.to/cVsDGL",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6366/",
+          "sha256": "b8029000d1df089550d5db720cf732afdcd4f93d5081be8c015fbfac99b3b63a"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman V3 Pro",
+      "model": "RZ03-0497",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.03.00_r1",
+          "url": "https://rzr.to/jqf5hh",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13705/",
+          "sha256": "8fa3d649881f9fcf929b44f4a07379f56c23965a5e354aafb0808408fd2cccd9"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman V3 Pro 8KHz",
+      "model": "RZ03-0553",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.3.0_r2",
+          "url": "https://rzr.to/g02bar",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20396/",
+          "sha256": "03be2522f9e5ef71e03add9d3df986937d40d53718af8d9a5fdc00c54e0ce6b0"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman V3 Pro Low-profile Tenkeyless 8KHz",
+      "model": "RZ03-05850",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.1.1_r2",
+          "url": "https://rzr.to/ztofmc",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/21346/",
+          "sha256": "d3337024faac9bbbd0b6983e8bdfb84a33f6195d6eba535d05b306d233a2fe4e"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman V3 Pro Mini",
+      "model": "RZ03-0499",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "2.01.00_r1",
+          "url": "https://rzr.to/9ecz87",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13707/",
+          "sha256": "f652c001b92cc39433c15631af233fce36e50da93f0ad89b2efab52bcb4b7fd9"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman V3 Pro Tenkeyless",
+      "model": "RZ03-0498",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.04.00_r1",
+          "url": "https://rzr.to/5ma4pc",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13706/",
+          "sha256": "4ef89ef20de5d8fea8293c7f04be73d7c953b2548e9d1d69c76c51134a9e0ff7"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman V3 Pro Tenkeyless 8KHz",
+      "model": "RZ03-0552",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.4.0_r2",
+          "url": "https://rzr.to/9o7tcv",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20383/",
+          "sha256": "b4bd9c5bb6f53635e337c814f7cb448ad302f122e66ba59d8b13d3e85e474159"
+        },
+        {
+          "version": "1.03.00_r1",
+          "url": "https://rzr.to/r70r7j",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20383/",
+          "sha256": "2d23e304efa07345ea178ef5ba5e95e7eef3492f98684b1afc291c70e0235a48"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman V3 Tenkeyless 8KHz",
+      "model": "RZ03-05750",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.02.0_r1",
+          "url": "https://rzr.to/zyp0pu",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20538/",
+          "sha256": "c74983c8d1778c7b839bb7fb227c0c068e5475f109c52656a12f953ce24c3295"
+        }
+      ]
+    },
+    {
+      "name": "Huntsman V3 X Tenkeyless",
+      "model": "RZ03-0502",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.01.00_r3",
+          "url": "https://rzr.to/v1gueh",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/21028/",
+          "sha256": "09b13f3faf44c87a22e059953921df8a228478971e15501c9f701508ed30032f"
+        }
+      ]
+    },
+    {
+      "name": "Joro Portable Keyboard",
+      "model": "RZ03-0236",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.03.00_r1",
+          "url": "https://rzr.to/1zim4t",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/19909/",
+          "sha256": "ce3a1cb75d2961110bb4e3ac18f2b93acd77a16b8093885f6bc349ded1f47072"
+        }
+      ]
+    },
+    {
+      "name": "Ornata V3",
+      "model": "RZ03-0446x",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "2.02.00_r1",
+          "url": "https://rzr.to/5E0w5A",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13275/",
+          "sha256": "b193aa39f21ed99522352acdb2985db9ec61d900df0d757d3b544862c8f14839"
+        }
+      ]
+    },
+    {
+      "name": "Ornata V3 Tenkeyless",
+      "model": "RZ03-0488x",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.02.00_r1",
+          "url": "https://rzr.to/hCjNDN",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13273/",
+          "sha256": "f42748ea83da245f3addad7471724a6bc3b1b970433bf755aa477482a7f67fe6"
+        }
+      ]
+    },
+    {
+      "name": "Ornata V3 X",
+      "model": "RZ03-0447x",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "2.1.0_r1",
+          "url": "https://rzr.to/umiuti",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/21090/",
+          "sha256": "34e7da0570ab765194b04b913bbde43652bf92e59e35e4b184601d15ed270617"
+        }
+      ]
+    },
+    {
+      "name": "Turret for Xbox One",
+      "model": "RZ84-02820",
+      "category": "keyboard",
+      "releases": [
+        {
+          "version": "1.13.00_r1",
+          "url": "https://rzr.to/JaYwAA",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1651/",
+          "sha256": "952780316ede0961e20f9f051df2ee59498e2c3b59f9819916efab6273007ea1"
+        }
+      ]
+    },
+    {
+      "name": "Basilisk Essential",
+      "model": "RZ01-02650",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.02.00",
+          "url": "https://rzr.to/yoaUM",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1633/",
+          "sha256": "166e9f2eea59405024e0859b21ab76b3221a2f81288457ef36198f4abe711a44"
+        }
+      ]
+    },
+    {
+      "name": "Basilisk Ultimate",
+      "model": "RZ01-03170",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.08.00_r1",
+          "url": "https://rzr.to/coZddp",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4552/",
+          "sha256": "1b5b29292609bfa2265fde49ed662b0bd6d210bcd820e17d481735b2434ca053"
+        }
+      ]
+    },
+    {
+      "name": "Basilisk V2",
+      "model": "RZ01-03160",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.03.00_r1",
+          "url": "https://rzr.to/8r187",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4554/",
+          "sha256": "12f6ce6bd924f416cba6725f3d6f0c0e26122bc053d28f48083289d6e6d51daa"
+        }
+      ]
+    },
+    {
+      "name": "Basilisk V3 Pro",
+      "model": "RZ01-04620",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "2.01.01_r1",
+          "url": "https://rzr.to/4zjozf",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6405/",
+          "sha256": "7096b80761d1f6f8a220e70d582f8be39b9204539a8956c4f89584153ae52729"
+        }
+      ]
+    },
+    {
+      "name": "Basilisk V3 Pro 35K",
+      "model": "RZ01-0524",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "2.52.00_r1",
+          "url": "https://rzr.to/8uia4k",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20610/",
+          "sha256": "1f053c0b8193ef7d0d7738aa7f1afab354ecefda1e252a4b3c4d1ee03c877c4f"
+        },
+        {
+          "version": "2.53.00_r1",
+          "url": "https://rzr.to/ef020m",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20511/",
+          "sha256": "4c0f8ca719ef998b64b2a6c260eabef460011f4e3296819a5281ad65c5851c17",
+          "variant": "Phantom Edition"
+        }
+      ]
+    },
+    {
+      "name": "Cobra HyperSpeed",
+      "model": "RZ01-0557",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.01.00_r1",
+          "url": "https://rzr.to/4sv8by",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/20514/",
+          "sha256": "d96abf7a0b641b551cf43fbc17f002a922c06270ee4cf71db0bbdbea4cd55c93"
+        }
+      ]
+    },
+    {
       "name": "Cobra Pro",
       "model": "RZ01-0466",
       "category": "mouse",
@@ -53,6 +665,38 @@
           "url": "https://rzr.to/cq79xe",
           "sha256": "ebef26cb21be8f76f76dae7af87044a465c54e54831c440e571a63c9842cc424",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/13282/"
+        },
+        {
+          "version": "2.01.00_r1",
+          "url": "https://rzr.to/ql0esf",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13282/",
+          "sha256": "b1a23141e5cdba6481ad4c2b03fb03a5edb361568668ac707e84588145799ef3"
+        }
+      ]
+    },
+    {
+      "name": "DeathAdder V2",
+      "model": "RZ01-03210",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.04.01_r1",
+          "url": "https://rzr.to/XhZ6cS",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4555/",
+          "sha256": "75243987c6b31ebd9b97d24899271e4e1e2cfdc0730d3f2e176f978a2b9af595"
+        }
+      ]
+    },
+    {
+      "name": "DeathAdder V2 Mini",
+      "model": "RZ01-03340",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.02.01_r3",
+          "url": "https://rzr.to/fa7fr5",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4556/",
+          "sha256": "1d24bcebc11b3b4fbd43c57d901a7532f630849122aa42fd00a5ec9b8932d74e"
         }
       ]
     },
@@ -66,6 +710,337 @@
           "url": "https://rzr.to/Bt4tFd",
           "sha256": "945ea29e37e2b5a14550d12766b84dce73490427bb48800d1ba696d9d8182ab5",
           "source": "https://mysupport.razer.com/app/answers/detail/a_id/4557/"
+        }
+      ]
+    },
+    {
+      "name": "DeathAdder V3",
+      "model": "RZ01-04640",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.02.00_r1",
+          "url": "https://rzr.to/FMwIs7",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13817/",
+          "sha256": "d71637d12aa8b0d29ad6e4f359746823b6c8288b08df22865c69749a2d5a04de"
+        }
+      ]
+    },
+    {
+      "name": "DeathAdder V3 Pro",
+      "model": "RZ01-046301",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "2.02.00_r2",
+          "url": "https://rzr.to/5a8pja",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6403/",
+          "sha256": "5ed5a01874006c814e74aa4713f3f4b7c71a60a31e0eb856eca89fbc51c0ea14"
+        }
+      ]
+    },
+    {
+      "name": "Lancehead",
+      "model": "RZ01-02120",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.02.00_r1",
+          "url": "https://rzr.to/UgDbz",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1796/",
+          "sha256": "9d015a3b5da90372f26d7d9b0c1f9ef27c07f11e9d0305973f792fad406592f6"
+        }
+      ]
+    },
+    {
+      "name": "Lancehead Wireless",
+      "model": "RZ01-02570",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.02.01_r2",
+          "url": "https://rzr.to/bdwXn",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1634/",
+          "sha256": "87e20b12ca07c699ba768330804a0129d92664d92fc097a6ea330ecf159fb10b"
+        }
+      ]
+    },
+    {
+      "name": "Mamba Elite",
+      "model": "RZ01-02560",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.01.00_r1",
+          "url": "https://rzr.to/LMUZl",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1757/",
+          "sha256": "84cfbbfa3b75a4ffe170b22f0ba17fc4458cf20b824aafe5d67ce8c23d849b1d"
+        }
+      ]
+    },
+    {
+      "name": "Mamba Wireless",
+      "model": "RZ01-02710",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.12.00_r1",
+          "url": "https://rzr.to/NwS3R",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1635/",
+          "sha256": "1db8d8a57176984c89dea5efcd18974a9976dbd64877a87ed51103a7c297e7e6"
+        }
+      ]
+    },
+    {
+      "name": "Naga Pro",
+      "model": "RZ01-03420",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "2.03.02_r1",
+          "url": "https://rzr.to/T2fhkf",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4549/",
+          "sha256": "6ce8d05cdfebe7eb203b548cb94b7c66be444097dae5cf8134c4624508863c23"
+        }
+      ]
+    },
+    {
+      "name": "Naga V2 Pro",
+      "model": "RZ01-0440x",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "2.61.01_r1",
+          "url": "https://rzr.to/8xek3n",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6394/",
+          "sha256": "77a17572b78ba0eac8dd742dc8655bbbe1308f69bbeac585f180aa3bfcda2183"
+        },
+        {
+          "version": "1.03.00_r1",
+          "url": "https://rzr.to/aiq5k1",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6394/",
+          "sha256": "12e911b6d9fbc55dd9aa8773c470ad1979df1184b8819a474c43143a01b6a162"
+        }
+      ]
+    },
+    {
+      "name": "Pro Click",
+      "model": "RZ01-02990",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.02.00_r1",
+          "url": "https://rzr.to/4GkFt",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4580/",
+          "sha256": "97d9114f9f3b7148f5c4550e37ca8d3d93040ed62b95260be6bacf2445b33b97"
+        }
+      ]
+    },
+    {
+      "name": "Viper",
+      "model": "RZ01-02550",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.07.01_r1",
+          "url": "https://rzr.to/PrIDN",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4581/",
+          "sha256": "6176814b9afdb66f1109aeec6d3c3bc2d1ffed949438558978e8356a14ce3195"
+        }
+      ]
+    },
+    {
+      "name": "Viper 8KHz",
+      "model": "RZ01-03580",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.03.01_r1",
+          "url": "https://rzr.to/84LsT2",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4540/",
+          "sha256": "f06b7a9b8d8fbc51aae99ff8a2f3da95c1fd1669b2c4b5024dea96fb137aac42"
+        }
+      ]
+    },
+    {
+      "name": "Viper Mini",
+      "model": "RZ01-03250",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.03.02_r1",
+          "url": "https://rzr.to/DjS6s",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4648/",
+          "sha256": "bcd2ba9c5114fbacc18235d9455df15631c6edd20632eb36c2482aff432fc1e7"
+        }
+      ]
+    },
+    {
+      "name": "Viper Mini Signature Edition",
+      "model": "RZ01-04410",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.05.00_r1",
+          "url": "https://rzr.to/j0zepz",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/9731/",
+          "sha256": "eeb7aa01cb2dbdd01f584ff487e246abf402588a009dc5c699b7d6bf788c60a0"
+        }
+      ]
+    },
+    {
+      "name": "Viper V2 Pro",
+      "model": "RZ01-04390",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "2.01.00_r1",
+          "url": "https://rzr.to/0n3dzq",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6110/",
+          "sha256": "7960d9ea4ff60f59de92c632bd86a92aee5714c908bf75361323eb07f2467626"
+        }
+      ]
+    },
+    {
+      "name": "Viper V3 Hyperspeed",
+      "model": "RZ01-0491",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "2.00.02_r1",
+          "url": "https://rzr.to/cexrmi",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13747/",
+          "sha256": "e28b62d53848add662cccf01d1bcb13815a06e93ba7f045af07d48d89e510956"
+        }
+      ]
+    },
+    {
+      "name": "Viper V3 Pro",
+      "model": "RZ01-0512",
+      "category": "mouse",
+      "releases": [
+        {
+          "version": "1.14.00_r2",
+          "url": "https://rzr.to/zegglb",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/14169/",
+          "sha256": "80dc13b70ac93d96cbe3a9af240d211acd2e12d2f798615fe157060c4d59a332"
+        }
+      ]
+    },
+    {
+      "name": "Firefly",
+      "model": "RZ02-02000",
+      "category": "mouse mat",
+      "releases": [
+        {
+          "version": "1.01.00_r1",
+          "url": "https://rzr.to/9Smnw",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4559/",
+          "sha256": "a50987a09611f7d145ff08083940617aa7baaf4076474eb7abf74a72c4a397ed"
+        }
+      ]
+    },
+    {
+      "name": "Goliathus Chroma",
+      "model": "RZ02-025001",
+      "category": "mouse mat",
+      "releases": [
+        {
+          "version": "1.01.01_r1",
+          "url": "https://rzr.to/bRWMd",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1637/",
+          "sha256": "cd83ac452cbe0c84f35568ada33e72609c07333a1766f1c1442e7b0d29b92c9f"
+        }
+      ]
+    },
+    {
+      "name": "Goliathus Extended Chroma",
+      "model": "RZ02-025003",
+      "category": "mouse mat",
+      "releases": [
+        {
+          "version": "1.01.01",
+          "url": "https://rzr.to/rGVcV",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/1644/",
+          "sha256": "ce00574c00fdeb4c72c52e963eb34af00f2486d0c07647476808f29eb0361e57"
+        }
+      ]
+    },
+    {
+      "name": "Mamba Firefly Hyperflux",
+      "model": "RZ02-02480",
+      "category": "mouse mat",
+      "releases": [
+        {
+          "version": "1.02.00_r1",
+          "url": "https://rzr.to/s8n6S",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/2271/",
+          "sha256": "416f47af0721fe26ccf7917471dc6c760eb9ee579f50126e5b4c71e12fea20e9"
+        }
+      ]
+    },
+    {
+      "name": "Charging Pad Chroma",
+      "model": "RC21-01600",
+      "category": "other",
+      "releases": [
+        {
+          "version": "1.01.01.32_r1",
+          "url": "https://rzr.to/WrwDBy",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4753/",
+          "sha256": "0de2440477eeeadbc35f9212396502305496512e43bbd24ed5e909e66d87d027"
+        }
+      ]
+    },
+    {
+      "name": "HyperPolling Wireless Dongle",
+      "model": "RC30-04410",
+      "category": "other",
+      "releases": [
+        {
+          "version": "2.01.00_r1",
+          "url": "https://rzr.to/yrqb7x",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/13746/",
+          "sha256": "9d0cd71c579bd6f43b5602bdbebd9e326f14715d29926f63c9c337cfd740a274"
+        }
+      ]
+    },
+    {
+      "name": "Mouse Dock Pro",
+      "model": "RZ81-01990",
+      "category": "other",
+      "releases": [
+        {
+          "version": "2.01.00_r1",
+          "url": "https://rzr.to/f811dk",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/6387/",
+          "sha256": "5a24a45995326934bdd86c3fb1875493812ac0a5198b166563784358384e0d93"
+        }
+      ]
+    },
+    {
+      "name": "Nommo Chroma",
+      "model": "RZ05-02460",
+      "category": "speaker",
+      "releases": [
+        {
+          "version": "1.03.00_r4",
+          "url": "https://rzr.to/uGhG1",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/2805/",
+          "sha256": "521932622c6c9573ef412a9728af94c062b0ab1f0c1d540b6b68b9d079baad51"
+        }
+      ]
+    },
+    {
+      "name": "Nommo Pro",
+      "model": "RZ05-02470",
+      "category": "speaker",
+      "releases": [
+        {
+          "version": "1.03.00.049_r1",
+          "url": "https://rzr.to/nommoprofwu",
+          "source": "https://mysupport.razer.com/app/answers/detail/a_id/4652/",
+          "sha256": "a2e2b1008f308672a5c37891fcddbc42e76e1cdf17b1ec2e9d190e772591aeba"
         }
       ]
     }

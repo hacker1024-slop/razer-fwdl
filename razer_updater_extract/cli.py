@@ -34,6 +34,12 @@ def device_label(device):
     return f"{device['name']} ({device['model']}, {device['category']})"
 
 
+def release_label(release):
+    version = release["version"]
+    variant = release.get("variant")
+    return f"{version} ({variant})" if variant else version
+
+
 def download(release, target):
     digest = hashlib.sha256()
     size = 0
@@ -72,7 +78,7 @@ def main(argv=None):
             if args.command == "list":
                 for device in devices:
                     print(f"{device_label(device)}: " + ", ".join(
-                        release["version"] for release in device["releases"]
+                        release_label(release) for release in device["releases"]
                     ))
                 return 0
             model = getattr(args, "device", None)
@@ -95,7 +101,7 @@ def main(argv=None):
             elif len(releases) == 1:
                 release = releases[0]
             elif sys.stdin.isatty():
-                release = choose(releases, "an updater version", lambda r: r["version"])
+                release = choose(releases, "an updater version", release_label)
             else:
                 raise ValueError("Select an updater with --version")
             output = getattr(args, "output", None) or Path(
